@@ -18,11 +18,11 @@
     },
 
     "old_value": {
-      "type": ["null", "string"]
+       "type": "integer"
     },
 
     "new_value": {
-      "type": ["null", "string"]
+       "type": "integer"
     },
 
     "is_bulk_update_flag": {
